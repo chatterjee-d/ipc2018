@@ -4,7 +4,7 @@
 
 == Overview
 
-The IEEE Workshop on Innovations in Predictive Control (https://sites.google.com/view/ipc2018[IPC2018]) was held at IIT Bombay, Mumbai, India, during 25-29 Nov 2018. It was organized under the aegis of the IEEE CSS Outreach Funds by https://ei.uni-paderborn.de/rat/[Daniel Quevedo] (Paderborn University, Germany), http://www.sc.iitb.ac.in/~chatterjee[Debasish Chatterjee] and https://www.ee.iitb.ac.in/web/faculty/homepage/borkar[Vivek Borkar] (IIT Bombay), with additional support from https://new.abb.com/[ABB] and https://in.mathworks.com/[MathWorks].
+The IEEE Workshop on Innovations in Predictive Control (https://sites.google.com/view/ipc2018[IPC2018]) was held at IIT Bombay, Mumbai, India, during 25-29 Nov 2018. It was organized under the aegis of the IEEE CSS Outreach Funds by https://ei.uni-paderborn.de/rat/[Daniel Quevedo] (Paderborn University, Germany), https://www.sc.iitb.ac.in/~chatterjee[Debasish Chatterjee] and https://www.ee.iitb.ac.in/web/faculty/homepage/borkar[Vivek Borkar] (IIT Bombay), with additional support from https://new.abb.com/[ABB] and https://in.mathworks.com/[MathWorks].
 
 This workshop brought together some of the key architects behind the latest innovations in both deterministic and stochastic predictive control. Participants engaged in extensive technical discussions to cross-inform and cross-fertilize their respective areas while staying focussed on the crucial strength of predictive control: algorithmic synthesis techniques for constrained control. A brief summary of the proceedings are as follows. The slides of all the presentations made in IPC2018 are freely downloadable from the workshop page https://sites.google.com/view/ipc2018/program/abstracts[Abstracts].
 
